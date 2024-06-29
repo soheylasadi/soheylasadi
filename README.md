@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi I'm Dr. Soheyl Asadi
+
+ I'm an assistant professor of Business Technology Management (BTM).
+
+ Find me on [Twitter](https://x.com/drsoheylasadi), [Linktree](https://linktr.ee/soheylasadi)
 
 <!--
 **soheylasadi/soheylasadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
