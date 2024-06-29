@@ -2,7 +2,10 @@
 
  I'm an assistant professor of Business Technology Management (BTM).
 
- Find me on [Twitter](https://x.com/drsoheylasadi), [Linktree](https://linktr.ee/soheylasadi)
+ Find me on [Twitter](https://x.com/drsoheylasadi), [Linktree](https://linktr.ee/soheylasadi), [Medium](https://medium.com/@soheylasadi)
+
+ - [Dr. Soheyl Asadi: A Leader in Business Technology Management](https://medium.com/@soheylasadi/dr-soheyl-asadi-a-leader-in-business-technology-management-11db3a862dfb)
+
 
 <!--
 **soheylasadi/soheylasadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
